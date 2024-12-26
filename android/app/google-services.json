@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482534313333",
+    "firebase_url": "https://math-solver-8zjhps-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "math-solver-8zjhps",
+    "storage_bucket": "math-solver-8zjhps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482534313333:android:6c75e05668c99567f1d73c",
+        "android_client_info": {
+          "package_name": "com.mycompany.mathsolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482534313333-i6p1jl5c4jm2u7mo3trekpl3lr8o5nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAijdnDBMeApZn5xHsCxvvXme7Skvbj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482534313333-i6p1jl5c4jm2u7mo3trekpl3lr8o5nks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482534313333-mq4he474sq21p0ni5dihsvo2kcit44n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mathsolver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
