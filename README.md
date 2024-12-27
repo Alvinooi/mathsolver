@@ -1,6 +1,6 @@
 # MathSolver
 
-A new Flutter project.
+FYP PROJECT - INTELLIGENT MATHEMATICS SOLVER SYSTEM (OOI YI XUEN)
 
 ## Getting Started
 
